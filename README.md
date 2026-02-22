@@ -229,8 +229,6 @@ graph LR
 - **Arduino IDE** ([Download](https://www.arduino.cc/en/software))
 - **Git** (optional, for cloning)
 
-### ⚙️ Installation
-
 ### 📦 Quick Download
 [![Download](https://img.shields.io/badge/Download-VVM_2.0.0-blue)](https://sadraghofran.ir/VVM.zip)
 ```
