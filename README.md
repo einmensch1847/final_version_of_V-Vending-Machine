@@ -463,23 +463,5 @@ void checkButtons() {
 - **Lead Developer**: Sadra Ghofran
   - 📧 Email: sadrareza1847@gmail.com
   - 🌐 Website: [sadraghofran.ir](https://sadraghofran.ir)
-  - 💻 GitHub: [@sadra-ghofran](https://github.com/einmensch1847)
+  - 💻 GitHub: [einmensch1847](https://github.com/einmensch1847)
 
----
-
-## 🌟 Acknowledgments
-
-Special thanks to:
-- 🎓 **University Professors** for guidance
-- 👥 **Team Members** for dedication
-- 🔧 **Open Source Community** for tools
-- 🤖 **Arduino Community** for hardware support
-
----
-
-<div align="center">
-  <h3>⭐ Star us on GitHub — it motivates us! ⭐</h3>
-  <p>Made with ❤️ for the open-source community</p>
-  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername%2FVVM&label=Visitors&countColor=%23263759)
-</div>
