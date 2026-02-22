@@ -136,7 +136,7 @@ graph LR
       <td><img src="SaleLog.png" alt="Sales Logs" width="400"/><br/><b>📊 Sales Logs</b></td>
     </tr>
     <tr>
-      <td><img src="UserLoginLogs.png" alt="Entry Logs" width="400"/><br/><b>📝 Entry Logs</b></td>
+      <td><img src="UserLoginLog.png" alt="Entry Logs" width="400"/><br/><b>📝 Entry Logs</b></td>
       <td><img src="AdminLog.png" alt="Admin Logs" width="400"/><br/><b>🔐 Admin Logs</b></td>
     </tr>
     <tr>
