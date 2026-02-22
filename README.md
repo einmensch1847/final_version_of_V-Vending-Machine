@@ -231,43 +231,6 @@ graph LR
 
 ### ⚙️ Installation
 
-#### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/VVM.git
-cd VVM
-```
-
-#### 2️⃣ Set Up Database
-```sql
--- Create database
-CREATE DATABASE halepgyi_vending_machine;
-USE halepgyi_vending_machine;
-
--- Import schema
-SOURCE database/schema.sql;
-SOURCE database/sample_data.sql;
-```
-
-#### 3️⃣ Configure Connection
-Edit `src/main/java/api/ApiClient.java`:
-```java
-private static final String BASE_URL = "http://your-server.com/API/";
-```
-
-#### 4️⃣ Build with Maven
-```bash
-mvn clean package
-```
-
-#### 5️⃣ Run Application
-```bash
-# Run JAR
-java -jar target/VVM-2.0.0.jar
-
-# Or run with Maven
-mvn javafx:run
-```
-
 ### 📦 Quick Download
 [![Download](https://img.shields.io/badge/Download-VVM_2.0.0-blue)](https://sadraghofran.ir/VVM.zip)
 ```
