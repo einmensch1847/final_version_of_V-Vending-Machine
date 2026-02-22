@@ -282,10 +282,8 @@ https://sadraghofran.ir/VVM.zip
 
 | Role | Username | Password | Level |
 |------|----------|----------|-------|
-| 👑 SuperAdmin | `sadra` | `sadra` | SuperAdmin |
-| 👨‍💼 Manager | `امیری` | `mobina` | Manager |
-| 👤 Operator | `asasas` | `123456` | Operator |
-| 👥 Regular User | `testuser2` | `123456` | User |
+| 👑 SuperAdmin | `...` | `...` | SuperAdmin |
+| 👨‍💼 user | `test_user` | `123456789` | user |
 
 ### 📱 **User Mode**
 1. **Login** with user credentials
@@ -550,12 +548,7 @@ of this software and associated documentation files...
 - **Lead Developer**: Sadra Ghofran
   - 📧 Email: sadrareza1847@gmail.com
   - 🌐 Website: [sadraghofran.ir](https://sadraghofran.ir)
-  - 💻 GitHub: [@sadra-ghofran](https://github.com/sadra-ghofran)
-
-### **Support**
-- 📧 Email: support@vvm.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/VVM/issues)
-- 📚 Wiki: [Project Wiki](https://github.com/yourusername/VVM/wiki)
+  - 💻 GitHub: [@sadra-ghofran](https://github.com/einmensch1847)
 
 ---
 
