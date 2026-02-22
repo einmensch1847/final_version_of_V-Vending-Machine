@@ -121,26 +121,26 @@ graph LR
   <table>
     <tr>
       <td><img src="LoginPanel.png" alt="Login Page" width="400"/><br/><b>🔐 Login Page</b></td>
-      <td><img src="images/UserPanel.png" alt="User Dashboard" width="400"/><br/><b>👤 User Dashboard</b></td>
+      <td><img src="UserPanel.png" alt="User Dashboard" width="400"/><br/><b>👤 User Dashboard</b></td>
     </tr>
     <tr>
-      <td><img src="images/AdminPanel.png" alt="Admin Panel" width="400"/><br/><b>👑 Admin Panel</b></td>
-      <td><img src="images/AddUserPanel.png" alt="Add User" width="400"/><br/><b>➕ Add User</b></td>
+      <td><img src="AdminPanel.png" alt="Admin Panel" width="400"/><br/><b>👑 Admin Panel</b></td>
+      <td><img src="AddUserPanel.png" alt="Add User" width="400"/><br/><b>➕ Add User</b></td>
     </tr>
     <tr>
-      <td><img src="images/add_admin.png" alt="Add Admin" width="400"/><br/><b>👥 Add Admin</b></td>
-      <td><img src="images/sales_step1.png" alt="Sales Step 1" width="400"/><br/><b>🛒 Product Selection</b></td>
+      <td><img src="AddAdminPanel.png" alt="Add Admin" width="400"/><br/><b>👥 Add Admin</b></td>
+      <td><img src="Order1.png" alt="Sales Step 1" width="400"/><br/><b>🛒 Product Selection</b></td>
     </tr>
     <tr>
-      <td><img src="images/sales_step2.png" alt="Sales Step 2" width="400"/><br/><b>✅ Confirmation Page</b></td>
-      <td><img src="images/sales_logs.png" alt="Sales Logs" width="400"/><br/><b>📊 Sales Logs</b></td>
+      <td><img src="Order2.png" alt="Sales Step 2" width="400"/><br/><b>✅ Confirmation Page</b></td>
+      <td><img src="SaleLog.png" alt="Sales Logs" width="400"/><br/><b>📊 Sales Logs</b></td>
     </tr>
     <tr>
-      <td><img src="images/entry_logs.png" alt="Entry Logs" width="400"/><br/><b>📝 Entry Logs</b></td>
-      <td><img src="images/admin_logs.png" alt="Admin Logs" width="400"/><br/><b>🔐 Admin Logs</b></td>
+      <td><img src="UserLoginLogs.png" alt="Entry Logs" width="400"/><br/><b>📝 Entry Logs</b></td>
+      <td><img src="AdminLog.png" alt="Admin Logs" width="400"/><br/><b>🔐 Admin Logs</b></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="images/ads_page.png" alt="Advertisement Page" width="600"/><br/><b>📢 Advertisement Mode</b></td>
+      <td colspan="2" align="center"><img src="AdvertisementPanel.png" alt="Advertisement Page" width="600"/><br/><b>📢 Advertisement Mode</b></td>
     </tr>
   </table>
 </div>
