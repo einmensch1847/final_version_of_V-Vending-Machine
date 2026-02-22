@@ -120,7 +120,7 @@ graph LR
 <div align="center">
   <table>
     <tr>
-      <td><img src="images/LoginPanel.png" alt="Login Page" width="400"/><br/><b>🔐 Login Page</b></td>
+      <td><img src="LoginPanel.png" alt="Login Page" width="400"/><br/><b>🔐 Login Page</b></td>
       <td><img src="images/UserPanel.png" alt="User Dashboard" width="400"/><br/><b>👤 User Dashboard</b></td>
     </tr>
     <tr>
