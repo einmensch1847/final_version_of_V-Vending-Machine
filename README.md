@@ -120,12 +120,12 @@ graph LR
 <div align="center">
   <table>
     <tr>
-      <td><img src="images/login.png" alt="Login Page" width="400"/><br/><b>🔐 Login Page</b></td>
-      <td><img src="images/user_dashboard.png" alt="User Dashboard" width="400"/><br/><b>👤 User Dashboard</b></td>
+      <td><img src="images/LoginPanel.png" alt="Login Page" width="400"/><br/><b>🔐 Login Page</b></td>
+      <td><img src="images/UserPanel.png" alt="User Dashboard" width="400"/><br/><b>👤 User Dashboard</b></td>
     </tr>
     <tr>
-      <td><img src="images/admin_panel.png" alt="Admin Panel" width="400"/><br/><b>👑 Admin Panel</b></td>
-      <td><img src="images/add_user.png" alt="Add User" width="400"/><br/><b>➕ Add User</b></td>
+      <td><img src="images/AdminPanel.png" alt="Admin Panel" width="400"/><br/><b>👑 Admin Panel</b></td>
+      <td><img src="images/AddUserPanel.png" alt="Add User" width="400"/><br/><b>➕ Add User</b></td>
     </tr>
     <tr>
       <td><img src="images/add_admin.png" alt="Add Admin" width="400"/><br/><b>👥 Add Admin</b></td>
