@@ -1,0 +1,10 @@
+.button {
+    -fx-background-radius: 10;
+    -fx-background-color: #666;
+    -fx-text-fill: white;
+    -fx-padding: 12 24;
+}
+
+.text-field, .password-field {
+    -fx-background-radius: 10;
+}
